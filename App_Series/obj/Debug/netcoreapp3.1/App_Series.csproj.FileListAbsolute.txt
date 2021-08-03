@@ -1,0 +1,13 @@
+D:\ADM\Projetos_Dotnet_Core\App_Series\App_Series\bin\Debug\netcoreapp3.1\App_Series.exe
+D:\ADM\Projetos_Dotnet_Core\App_Series\App_Series\bin\Debug\netcoreapp3.1\App_Series.deps.json
+D:\ADM\Projetos_Dotnet_Core\App_Series\App_Series\bin\Debug\netcoreapp3.1\App_Series.runtimeconfig.json
+D:\ADM\Projetos_Dotnet_Core\App_Series\App_Series\bin\Debug\netcoreapp3.1\App_Series.runtimeconfig.dev.json
+D:\ADM\Projetos_Dotnet_Core\App_Series\App_Series\bin\Debug\netcoreapp3.1\App_Series.dll
+D:\ADM\Projetos_Dotnet_Core\App_Series\App_Series\bin\Debug\netcoreapp3.1\App_Series.pdb
+D:\ADM\Projetos_Dotnet_Core\App_Series\App_Series\obj\Debug\netcoreapp3.1\App_Series.csproj.AssemblyReference.cache
+D:\ADM\Projetos_Dotnet_Core\App_Series\App_Series\obj\Debug\netcoreapp3.1\App_Series.AssemblyInfoInputs.cache
+D:\ADM\Projetos_Dotnet_Core\App_Series\App_Series\obj\Debug\netcoreapp3.1\App_Series.AssemblyInfo.cs
+D:\ADM\Projetos_Dotnet_Core\App_Series\App_Series\obj\Debug\netcoreapp3.1\App_Series.csproj.CoreCompileInputs.cache
+D:\ADM\Projetos_Dotnet_Core\App_Series\App_Series\obj\Debug\netcoreapp3.1\App_Series.dll
+D:\ADM\Projetos_Dotnet_Core\App_Series\App_Series\obj\Debug\netcoreapp3.1\App_Series.pdb
+D:\ADM\Projetos_Dotnet_Core\App_Series\App_Series\obj\Debug\netcoreapp3.1\App_Series.genruntimeconfig.cache
